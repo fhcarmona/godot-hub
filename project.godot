@@ -11,7 +11,7 @@ config_version=5
 [application]
 
 config/name="godot-hub"
-run/main_scene="res://step_by_step/scenes/label.tscn"
+run/main_scene="res://your_first_2d_game/scenes/main.tscn"
 config/features=PackedStringArray("4.3", "Forward Plus")
 config/icon="res://icon.svg"
 
